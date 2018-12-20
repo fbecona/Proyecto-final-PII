@@ -1,0 +1,24 @@
+A1
+¿Quieres escuchar la canción del mundial conmigo?
+A2
+¿Quieres eschuchar música?
+A3
+¿Te gusta la canción que estoy escuchando?
+AA1
+¿Qué es eso que tienes ahí?
+AA2
+¡Quiero beber algo ya!
+AA3
+¡Hoy es el cumpleaños de Manuela!
+B1
+¡Estoy contenta, voy a salir con Martín!
+B2
+No se que comprar de regalo para Juan, ¿me acompañas?
+B3
+¡Estoy segura que le encontraré un regalo!
+C1
+¿Te gustaria ir a un concierto conmigo?
+C2
+¿Te gustan los conciertos?
+C3
+¡Compré entradas para que vayamos al concierto!

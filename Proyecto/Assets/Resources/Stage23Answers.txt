@@ -1,0 +1,6 @@
+A1
+¿Puedo jugar contigo?
+A2
+¿Me prestas la pelota?
+A3
+¿A qué estás jugando?

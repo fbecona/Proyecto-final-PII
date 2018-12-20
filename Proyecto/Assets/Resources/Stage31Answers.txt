@@ -1,0 +1,18 @@
+A1
+Alguien se lo contó y no quiere decir quien
+A2
+Un pajarito se lo dijo
+A3
+Quiere decir que le gustan los pájaros
+B1
+El mundo está dado vuelta
+B2
+El mundo está fuera de control
+B3
+El mundo está lejos de la esfera solar
+C1
+Hablar con la almohada
+C2
+Hablar con un miembro de la familia
+C3
+Hablar con uno mismo
